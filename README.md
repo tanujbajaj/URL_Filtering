@@ -37,5 +37,5 @@ optional arguments:
                         DEBUG, INFO, WARNING, ERROR, CRITICAL
 
 Having difficulty using proxy.py? Report at:
-https://github.com/abhinavsingh/proxy.py/issues/new
+https://github.com/tanujbajaj/URL_Filtering/issues
 ```
